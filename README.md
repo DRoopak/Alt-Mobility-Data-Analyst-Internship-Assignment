@@ -48,3 +48,14 @@ Visualize how many customers from each cohort (e.g., customers who signed up in 
 Use a BI visualization tool (such as Power BI, Tableau, Looker Studio, etc.).
 
 Explain clearly how the visualization shows customer retention trends (e.g., retention matrix, cohort analysis graph).
+
+
+
+FEATURES of the Assignment:
+
+Feature	Details
+Skill Test Areas	SQL, Data Analysis, BI Visualization
+Focus Topics	Order Analysis, Customer Behavior, Payment Status, Retention
+Deliverables	SQL Code (GitHub), Visualizations (Images), Summary Report
+Tools Mentioned	Any SQL environment, any BI tool (e.g., Tableau, Power BI)
+Evaluation Factors	Accuracy, Data Cleaning, Visualization, Code, Documentation
