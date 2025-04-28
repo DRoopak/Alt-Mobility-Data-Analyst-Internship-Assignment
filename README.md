@@ -59,3 +59,17 @@ Focus Topics	Order Analysis, Customer Behavior, Payment Status, Retention
 Deliverables	SQL Code (GitHub), Visualizations (Images), Summary Report
 Tools Mentioned	Any SQL environment, any BI tool (e.g., Tableau, Power BI)
 Evaluation Factors	Accuracy, Data Cleaning, Visualization, Code, Documentation
+
+📂 Assumed Datasets Structure
+customer_orders.csv
+
+order_id	customer_id	order_date	status	amount
+101	C001	2024-01-15	completed	25000
+102	C002	2024-02-20	cancelled	15000
+103	C001	2024-03-10	completed	20000
+payments.csv
+
+payment_id	order_id	payment_date	payment_status	payment_amount
+5001	101	2024-01-16	success	25000
+5002	102	2024-02-21	failed	0
+5003	103	2024-03-11	success	20000
